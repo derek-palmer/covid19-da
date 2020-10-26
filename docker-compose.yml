@@ -1,0 +1,8 @@
+covid19-da:
+    build: .
+    volumes:
+        - ./project:/home/project
+    ports:
+        - "8888:8888"
+    environment:
+        environment: dev
