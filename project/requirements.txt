@@ -1,2 +1,3 @@
 jupyterthemes
 jupyter_contrib_nbextensions
+gitpython
